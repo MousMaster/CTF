@@ -14,3 +14,5 @@ Working ? <br />
 HTTPS, Certificats <br />
 
 https://robertheaton.com/2014/03/27/how-does-https-actually-work/ <br />
+AES <br/>
+https://www.youtube.com/watch?v=O4xNJsjtN6E
